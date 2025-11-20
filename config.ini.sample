@@ -1,0 +1,4 @@
+[PATH]
+backup_base_path = ./backups
+monthly_reports_path = ./reports/monthly
+daily_reports_path = ./reports/daily
